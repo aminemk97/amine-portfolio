@@ -1,0 +1,40 @@
+{
+  "NAVBAR_HOME": "Accueil",
+  "NAVBAR_ABOUT": "A propos",
+  "NAVBAR_SKILLS": "Compétences",
+
+  "DATA_TITLE": " Salut, je m'appelle Amine",
+  "DATA_H3": "Développeur Full Stack",
+  "DATA_P": "Je suis un ingénieur logiciel passionné, spécialisé dans le développement backend et les applications web évolutives. Je conçois et développe des API performantes, gère des bases de données et déploie des systèmes backend sécurisés. J'aime transformer des problèmes complexes en solutions efficaces et fiables.",
+  "DATA_BUTTON": "Envoyer un message",
+  "ABOUT_ME": "À propos de moi",
+  "MY_INTRODUCTION": "Ma présentation",
+  "ABOUT_DESC": "Je suis développeur logiciel spécialisé dans le développement backend. J'ai une expérience confirmée dans la création d'applications web évolutives et d'API RESTful avec Node.js, Express, TypeScript et PostgreSQL. J'ai travaillé sur des projets concrets, notamment l'intégration de paiements avec Stripe, le stockage de fichiers avec MinIO et le déploiement de services backend sur des serveurs VPS. J'apprécie particulièrement la conception de systèmes performants, sécurisés et maintenables, et le travail d'équipe pour fournir des solutions de haute qualité. Je suis toujours désireux d'apprendre de nouvelles technologies, de perfectionner mes compétences et de contribuer à des projets innovants.",
+  "BUTTON_DOWNLOAD": "Télécharger CV",
+
+  "TECHNICAL": "Mon niveau technique",
+  "PERSONAL": "Mon parcours personnel"
+
+  ,"SUBTITLE_PORTFOLIO":"Travaux les plus récents",
+
+  "DESCRIPTION_HBM":"Développement d'une application pour HBM Consulting afin d'automatiser les processus comptables, améliorant ainsi l'efficacité et la précision.",
+  "DESCRIPTION_SWEET": "Création d'une application web pour une pâtisserie afin de simplifier le processus de commande de produits sucrés et salés. " ,
+ "PORTFOLIO_COIF": "Application web responsive dédiée aux coiffeurs, offrant aux clients la possibilité de commander des produits et de réserver des services en toute simplicité.",
+"PORTFOLIO_COMMERCE": "Développer une application web et mobile d'e-commerce multi-fournisseurs",
+"PORTFOLIO_ACTIVITY": "Développement d'un site internet de gestion de l'activité des collaborateurs.",
+"PORTFOLIO_FORCELEARN": "Développement d'une application web pédagogique - 'ForceLearn.'",
+ "BUTTON_DEMO":"Démo",
+
+
+
+ "TITRE": "Prenez contact",
+"SUBTITLE_CONTACT": "Contactez-moi",
+
+"TALK": "Parle-moi",
+"WRITE_ME": "Écrivez-moi par e-mail",
+"BUTTON_WRITE": "Écrivez-moi",
+"INPUT_1": "Insérez votre email",
+"INPUT_2": "Insérez votre sujet",
+"INPUT_3": "Insérez votre message",
+"BUTTON_MAIL": "Envoyer un e-mail"
+}

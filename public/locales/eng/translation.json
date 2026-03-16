@@ -1,0 +1,45 @@
+{
+    "NAVBAR_HOME":"Home",
+    "NAVBAR_ABOUT":"About",
+     "NAVBAR_SKILLS":"Skills",
+
+
+     "DATA_TITLE":" Hi, I'm Amine",
+       "DATA_H3":"Full Stack Developer",
+       "DATA_P":"I’m a passionate Software Engineer specializing in backend development and scalable web applications. I design and build high-performance APIs, manage databases, and deploy secure backend systems. I enjoy turning complex problems into efficient and reliable solutions.",
+       "DATA_BUTTON":"Send Message",
+
+       "ABOUT_ME":"About Me",
+       "MY_INTRODUCTION":"My introduction",
+       "ABOUT_DESC":"  I am a software developer specializing in backend development, with experience building scalable web applications and RESTful APIs using Node.js, Express, TypeScript, and PostgreSQL. I have experience working on real-world projects, including payment integration with Stripe, file storage with MinIO, and deploying backend services on VPS servers. I enjoy building efficient, secure, and maintainable systems while collaborating with teams to deliver high-quality solutions.I am always eager to learn new technologies, improve my skills, and contribute to innovative projects.",
+       "BUTTON_DOWNLOAD":"Download CV",
+
+
+
+       "TECHNICAL":"My technical level",
+
+       "PERSONAL":"My personal journey",
+
+       "SUBTITLE_PORTFOLIO":"Most recent work",
+
+       "DESCRIPTION_HBM":"Developed an application for HBM Consulting to automate accounting processes, improving efficiency and accuracy."
+      ,"DESCRIPTION_SWEET": "Built a web application for a pastry shop to simplify the ordering process for sweet and savory  products. "   
+      ,"PORTFOLIO_COIF":" Responsive web application dedicated to hairdressers, offering customers the possibility order products and book services with ease."
+        ,"PORTFOLIO_COMMERCE":"Develop a multi-vendor e-commerce web and mobile application",
+        "PORTFOLIO_ACTIVITY":"Development of a website for managing employee activity.",
+         "PORTFOLIO_FORCELEARN":"Development of an educational web application - 'ForceLearn.'", 
+      "BUTTON_DEMO":"Demo",
+
+
+
+      "TITLE":"Get in touch",
+"SUBTITLE_CONTACT":"Contact Me",
+"TALK":"Talk to me",
+"WRITE_ME":"Write me in email",
+"BUTTON_WRITE":"Write me ",
+"INPUT_1":"Insert your email",
+"INPUT_2":"Insert your subject",
+"INPUT_3":"Insert your message",
+"BUTTON_MAIL":"Send email"
+
+}
