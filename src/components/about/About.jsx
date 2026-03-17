@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import "./about.css";
 import AboutImg from "../../assets/about.png";
 import CV_FR from "../../assets/AmineMkacher-CV-FR.pdf"; // French CV
-import CV_EN from "../../assets/AmineMkacher-CV-Eng.pdf"; // English CV
+import CV_EN from "../../assets/AmineMkacher-CV-English.pdf"; // English CV
 import Info from "./Info";
 import { useTranslation } from "react-i18next";
 import { motion } from "framer-motion";
