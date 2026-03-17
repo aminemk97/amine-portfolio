@@ -87,6 +87,16 @@
     padding: 0 4rem 0 0;
 }
 
+/* make paragraphs nicely justified */
+.about__description,
+.about__description p {
+  text-align: justify;
+  text-justify: inter-word;
+  -webkit-hyphens: auto;
+  -ms-hyphens: auto;
+  hyphens: auto;
+}
+
 /*=============== BREAKPOINTS ===============*/
 /* For large devices */
 @media screen and (max-width: 992px) {
@@ -116,6 +126,7 @@
     .about__description {
         padding: 0 5rem;
         margin-bottom: 2rem ;
+      text-align: justify;
     }
 }
   /* For medium devices */

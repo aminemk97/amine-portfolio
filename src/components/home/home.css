@@ -60,6 +60,16 @@
     max-width: 400px;
 }
 
+/* justify home paragraphs for a cleaner layout */
+.home__description,
+.home__description p {
+    text-align: justify;
+    text-justify: inter-word;
+    -webkit-hyphens: auto;
+    -ms-hyphens: auto;
+    hyphens: auto;
+}
+
 
 
 .home__img{
@@ -153,6 +163,7 @@
     .home__description {
         max-width: initial;
         margin-bottom: var(--mb-2-5);
+        text-align: justify;
     }
 
     .home__img {

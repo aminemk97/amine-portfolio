@@ -41,7 +41,7 @@ const Footer = () => {
         </div>
 
         <span className="footer__copy">
-            2025 - All rights reserved
+            2026 - All rights reserved
         </span>
       </div>
     </section>
