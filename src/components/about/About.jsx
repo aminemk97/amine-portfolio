@@ -10,6 +10,7 @@ import { useInView } from "react-intersection-observer";
 
 const About = () => {
   const { t } = useTranslation();
+  const [disabled, setDisabled] = useState(true);
   const { ref, inView } = useInView({
     triggerOnce: true,
     threshold: 0.1,
@@ -104,7 +105,7 @@ const About = () => {
     animate={isDropdownOpen ? { opacity: 1, y: 0 } : { opacity: 0, y: -10 }}
     transition={{ duration: 0.3 }}
   >
-    <button onClick={() => handleDownload(CV_FR, "MkacherAmine_CV_FR.pdf") } disabled >
+    <button onClick={() => handleDownload(CV_FR, "MkacherAmine_CV_FR.pdf") } disabled={disabled} >
       {t("MkacherAmine_Cv_FR")}
     </button>
     <button onClick={() => handleDownload(CV_EN, "MkacherAmine_CV_EN.pdf")}>
