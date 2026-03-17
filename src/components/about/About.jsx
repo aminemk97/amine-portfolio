@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import "./about.css";
 import AboutImg from "../../assets/about.png";
 import CV_FR from "../../assets/AmineMkacher-CV-FR.pdf"; // French CV
-import CV_EN from "../../assets/AmineMkacher-CV.pdf"; // English CV
+import CV_EN from "../../assets/AmineMkacher-CV-Eng.pdf"; // English CV
 import Info from "./Info";
 import { useTranslation } from "react-i18next";
 import { motion } from "framer-motion";
@@ -104,7 +104,7 @@ const About = () => {
     animate={isDropdownOpen ? { opacity: 1, y: 0 } : { opacity: 0, y: -10 }}
     transition={{ duration: 0.3 }}
   >
-    <button onClick={() => handleDownload(CV_FR, "MkacherAmine_CV_FR.pdf")}>
+    <button onClick={() => handleDownload(CV_FR, "MkacherAmine_CV_FR.pdf") } disabled >
       {t("MkacherAmine_Cv_FR")}
     </button>
     <button onClick={() => handleDownload(CV_EN, "MkacherAmine_CV_EN.pdf")}>
