@@ -5,14 +5,16 @@
 
 
      "DATA_TITLE":" Hi, I'm Amine",
-       "DATA_H3":"Backend Developer",
-       "DATA_P":"I’m a passionate Software Engineer specializing in backend development and scalable web applications. I design and build high-performance APIs, manage databases, and deploy secure backend systems. I enjoy turning complex problems into efficient and reliable solutions.",
+       "DATA_H3":"Full-Stack Developer",
+       "DATA_P":"Hi, I'm Amine! I'm a full-stack software engineer specializing in building scalable web applications from the ground up. On the backend, I design high-performance REST APIs and robust server architectures using Node.js, TypeScript, and PostgreSQL. On the frontend, I develop modern, responsive user interfaces that deliver seamless user experiences. I focus on clean code, performance, and end-to-end integration to bring complete, production-ready solutions to life.",
        "DATA_BUTTON":"Send Message",
 
        "ABOUT_ME":"About Me",
        "MY_INTRODUCTION":"My introduction",
-       "ABOUT_DESC":"  I am a software developer specializing in backend development, with experience building scalable web applications and RESTful APIs using Node.js, Express, TypeScript, and PostgreSQL. I have experience working on real-world projects, including payment integration with Stripe, file storage with MinIO, and deploying backend services on VPS servers. I enjoy building efficient, secure, and maintainable systems while collaborating with teams to deliver high-quality solutions.I am always eager to learn new technologies, improve my skills, and contribute to innovative projects.",
-       "BUTTON_DOWNLOAD":"Download CV",
+       "ABOUT_DESC": "Full-stack software engineer specializing in high-performance backend development and the creation of modern administration interfaces. Expert in the Node.js ecosystem (Express, TypeScript, Sequelize, PostgreSQL) and Angular for building interactive and secure administrative dashboards. Experienced in integrating third-party services: Stripe (payments), OneSignal (push notifications), and Minio (S3-compatible object storage). Rigorous and collaborative, I pride myself on delivering maintainable, well-documented, and high-performing solutions.",
+       "BUTTON_DOWNLOAD": "Download CV",
+       "MkacherAmine_Cv_FR": "CV French",
+       "MkacherAmine_Cv_Eng": "CV English",
 
 
 
@@ -22,12 +24,12 @@
 
        "SUBTITLE_PORTFOLIO":"Most recent work",
 
-       "DESCRIPTION_HBM":"Developed an application for HBM Consulting to automate accounting processes, improving efficiency and accuracy."
-      ,"DESCRIPTION_SWEET": "Built a web application for a pastry shop to simplify the ordering process for sweet and savory  products. "   
-      ,"PORTFOLIO_COIF":" Responsive web application dedicated to hairdressers, offering customers the possibility order products and book services with ease."
-        ,"PORTFOLIO_COMMERCE":"Develop a multi-vendor e-commerce web and mobile application",
-        "PORTFOLIO_ACTIVITY":"Development of a website for managing employee activity.",
-         "PORTFOLIO_FORCELEARN":"Development of an educational web application - 'ForceLearn.'", 
+       "DESCRIPTION_HBM":"Full-stack accounting automation app for HBM Consulting — built with Node.js, Express, PostgreSQL and Angular, streamlining invoice and reporting workflows."
+      ,"DESCRIPTION_SWEET":"Full-stack ordering platform for a pastry shop — product catalog, cart, and order management built with Node.js, Angular, and PostgreSQL."
+      ,"PORTFOLIO_COIF":"Responsive full-stack web app for hairdressers — online product ordering and appointment booking with Node.js, Angular, and PostgreSQL."
+      ,"PORTFOLIO_COMMERCE":"Multi-vendor e-commerce platform (web + mobile) with Stripe payments, vendor dashboards, and product management — Node.js, Angular, React Native, PostgreSQL."
+      ,"PORTFOLIO_ACTIVITY":"Employee activity management system with role-based access control and reporting — Node.js, Express, TypeScript, Angular, PostgreSQL."
+      ,"PORTFOLIO_FORCELEARN":"Educational web application 'ForceLearn' — course management, student progress tracking, and interactive content delivery — Node.js, Angular, PostgreSQL.", 
       "BUTTON_DEMO":"Demo",
 
 

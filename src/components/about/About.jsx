@@ -1,8 +1,8 @@
 import React, { useState } from "react";
 import "./about.css";
 import AboutImg from "../../assets/about.png";
-import CV_FR from "../../assets/AmineMkacher-CV-FR.pdf"; // French CV
-import CV_EN from "../../assets/AmineMkacher-CV-English.pdf"; // English CV
+import CV_FR from "../../assets/Amine-Mkacher-Cv-Frensh.pdf";
+import CV_EN from "../../assets/Amine-Mkacher-Cv-English.pdf";
 import Info from "./Info";
 import { useTranslation } from "react-i18next";
 import { motion } from "framer-motion";
@@ -10,7 +10,6 @@ import { useInView } from "react-intersection-observer";
 
 const About = () => {
   const { t } = useTranslation();
-  const [disabled, setDisabled] = useState(true);
   const { ref, inView } = useInView({
     triggerOnce: true,
     threshold: 0.1,
@@ -105,10 +104,10 @@ const About = () => {
     animate={isDropdownOpen ? { opacity: 1, y: 0 } : { opacity: 0, y: -10 }}
     transition={{ duration: 0.3 }}
   >
-    <button onClick={() => handleDownload(CV_FR, "MkacherAmine_CV_FR.pdf") } disabled={disabled} >
+    <button onClick={() => handleDownload(CV_FR, "Amine-Mkacher-Cv-Frensh.pdf")}>
       {t("MkacherAmine_Cv_FR")}
     </button>
-    <button onClick={() => handleDownload(CV_EN, "MkacherAmine_CV_EN.pdf")}>
+    <button onClick={() => handleDownload(CV_EN, "Amine-Mkacher-Cv-English.pdf")}>
       {t("MkacherAmine_Cv_Eng")}
     </button>
   </motion.div>
