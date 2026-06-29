@@ -1,8 +1,8 @@
 import React, { useState } from "react";
 import "./about.css";
 import AboutImg from "../../assets/about.png";
-import CV_FR from "../../assets/Amine-Mkacher-Cv-Frensh.pdf";
-import CV_EN from "../../assets/Amine-Mkacher-Cv-English.pdf";
+import CV_FR from "../../assets/AmineMkacher-CV-FR.pdf";
+import CV_EN from "../../assets/AmineMkacher-CV-EN.pdf";
 import Info from "./Info";
 import { useTranslation } from "react-i18next";
 import { motion } from "framer-motion";
